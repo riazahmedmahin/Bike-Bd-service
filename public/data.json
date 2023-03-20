@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Yamaha FZS Fi v2",
+    "price": 228000,
+    "img": "https://i.pinimg.com/736x/01/77/4a/01774a3a28e84976a80e15f6ab27e09f.jpg",
+    "details": "coming in  february 2023"
+  },
+  {
+    "id": 2,
+    "name": "Yamaha XSR 155",
+    "price": 530000,
+    "img": "https://turbinebd.com/images/blog/thumb2-2021-yamaha-xsr155-india-1632977311.jpg",
+    "details": " coming in march 2023"
+  },
+  {
+    "id": 3,
+    "name": "Suzuki Gixxer SF 150 FI ABS",
+    "price": 319000,
+    "img": "https://www.motorcycle.com.bd/images/bikes/Suzuki-Gixxer-SF-Fi-ABS-Silver.jpg",
+    "details": " coming on march 2023"
+  }
+]
